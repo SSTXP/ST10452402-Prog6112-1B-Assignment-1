@@ -5,6 +5,10 @@ Module Code: Programming 1B
 Assessment Type: Assignment 1
 Lecturer Name: Ms. Dharshanee Moodley
 
+YouTube video links:
+Question 1 --- https://youtu.be/VCI_WUXG6-0
+Question 2 --- https://youtu.be/Haxm8oB2Q4U
+
 Question 2 Description:
 Students often get bored while waiting for classes or when taking breaks. 
 They need a simple, fun game that runs in the console to pass the time without needing the internet.
