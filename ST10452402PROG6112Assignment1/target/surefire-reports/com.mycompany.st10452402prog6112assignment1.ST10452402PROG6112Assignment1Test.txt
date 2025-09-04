@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.st10452402prog6112assignment1.ST10452402PROG6112Assignment1Test
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.104 s -- in com.mycompany.st10452402prog6112assignment1.ST10452402PROG6112Assignment1Test
